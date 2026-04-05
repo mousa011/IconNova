@@ -9,9 +9,9 @@ Generate structured outputs ready for development — no manual work, no externa
 
 ## ⚙️ Setup
 
-1. Install the plugin from the Figma Community
-2. Open your Figma file
-3. Run **IconNova** from Plugins → Development / Installed Plugins
+1. Install the plugin from the Figma Community  
+2. Open your Figma file  
+3. Run **IconNova** from Plugins → Development / Installed Plugins  
 
 ---
 
@@ -49,7 +49,7 @@ Export a ready-to-use ZIP package including:
 
 ## 🚀 How to Use
 
-1. Select your icons (vector layers or frames)  
+1. Select your icons (vector layers or frames) in your Figma file  
 2. Run **IconNova** from Figma plugins  
 3. Review and organize icons  
 4. Export your icon system as a ZIP  
