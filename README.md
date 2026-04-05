@@ -7,6 +7,14 @@ Generate structured outputs ready for development — no manual work, no externa
 
 ---
 
+## ⚙️ Setup
+
+1. Install the plugin from the Figma Community
+2. Open your Figma file
+3. Run **IconNova** from Plugins → Development / Installed Plugins
+
+---
+
 ## ✨ Features
 
 - Scan icons from selection, frame, or entire page  
